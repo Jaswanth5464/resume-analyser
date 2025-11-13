@@ -1,3 +1,5 @@
+
+
 # resume-analyser
 🧠 AI-Powered Resume Analyzer (Flask + Gemini + NLP)
 
@@ -49,7 +51,7 @@ Combines Regex, NLP, and embeddings to detect technical skills, certifications, 
 Uses Sentence Transformers (MiniLM-L6-v2) for intelligent JD-to-resume comparison.
 
 ⚙️ AI Rewrite Tool
-Rewrites weak resume sections (summary, skills, experience) using Gemini Flash for ATS optimization.
+Rewrites pand weak resume sections (summary, skills, experience) using Gemini Flash for ATS optimization.
 
 🧾 PDF Report Generator
 Creates a beautiful, data-rich ATS report with:
